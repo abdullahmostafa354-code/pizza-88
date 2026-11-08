@@ -8,7 +8,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 
-const logo = "/public/pizza88-logo.png";
+const logo = "pizza88-logo.png";
 // Google Maps / restaurant review link supplied by you:
 const REVIEW_URL =
   "https://www.google.com/search?q=pizza+88&rlz=1CDGOYI_enEG1086EG1086&oq=pizza&gs_lcrp=EgZjaHJvbWUqBggCECMYJzIHCAAQABiPAjINCAEQLhiDARixAxiABDIGCAIQIxgnMgcIAxAAGIAEMgoIBBAAGLEDGIAEMhAIBRAuGMcBGLEDGNEDGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMzEzOGoxajeoAhmwAgHiAwQYASBf&hl=en-US&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#sv=CAESzQEKuQEStgEKd0FERGJXZWEtNXphdU9jVTNxMV9NR2RDTXZZUWx1WW9rdHVaM2lqYzIyTjRjbmZ3elRiVnVWN250UG12RHgzaTVONUtsSng3bnJ2RlpxVzZGNmhPTFN6UkMyeEo3dVlmNUFmWEpMTWFSQy1jdFVpZ19wZ3F4VVVZEhdmMGJwYXJTbUZQMkctZDhQbnJDOTZRbxoiQUhOMEU3SG40OGJoX2dFNVRDR1c0S0I4QzBjclprWTAtZxIEODA1MRoBMyoAMAA4AUAAGAAglIqrgAlKAhAB";
