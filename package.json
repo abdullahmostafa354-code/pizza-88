@@ -11,8 +11,9 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
