@@ -1,4 +1,5 @@
 import { useState } from "react";
+import logo from '../public/pizza88-logo.png';
 import {
   ArrowUpRight,
   Star,
@@ -34,7 +35,7 @@ export default function App() {
   return (
     <main className="page">
       <header>
-        <img className="logo" src="/src/pizza88-logo.png" alt="" style={{width: "15%" , height: "auto"}} />
+        <img className="logo" src={logo} alt="" style={{width: "15%" , height: "auto"}} />
         <div>
          <a className="logo" style={{margin: "10px"}} href="https://www.facebook.com/share/1MNyaxUUZk/?mibextid=wwXIfr">facebook</a>
          <a className="logo" style={{margin: "10px"}} href="https://www.instagram.com/pizza88egy?xtok=aWw2MnUwbDF6MjZ2">instagram</a>
@@ -80,7 +81,7 @@ export default function App() {
         <div className="pizza-art">
           <div className="ring"></div>
           <div className="ring ring2"></div>
-          <img src="/src/pizza88-logo.png" alt="" style={{width: "70%" , height: "auto"}} />
+          <img src={logo} style={{width: "70%" , height: "auto"}} />
           <b>88</b>
           <label>FRESH INGREDIENTS</label>
           <label className="love">MADE WITH LOVE ♥</label>
