@@ -90,8 +90,16 @@ export default function App() {
         </div>
       </section>
       <footer>
-        <span>© Created and developed by<br/><Space>Abdullah Mostafa</Space></span>
-        <span>© The Branch Manager is<br/>Mr. Milad</span>
+        <div className="created-footer">
+        <span>© Created and developed by</span>
+        <br/>
+        <span>Abdullah Mostafa</span>
+        </div>
+        <div className="manager-footer">
+        <span>© The Branch Manager is</span>
+        <br/>
+        <span>Mr. Milad</span>
+        </div>
       </footer>
 
       {menuOpen && (
