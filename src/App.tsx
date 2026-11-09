@@ -89,8 +89,8 @@ export default function App() {
         </div>
       </section>
       <footer>
-        <span>© Created by Abdullah Mostafa</span>
-        <span>© The Branch Manager is Milad</span>
+        <span>© Created and developed by<br/>Abdullah Mostafa</span>
+        <span>© The Branch Manager is<br/>Mr. Milad</span>
       </footer>
 
       {menuOpen && (
