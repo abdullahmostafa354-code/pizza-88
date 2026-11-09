@@ -90,8 +90,8 @@ export default function App() {
         </div>
       </section>
       <footer>
-        <span>© Created and developed by<br/>&nbsp;&nbsp;&nbsp;Abdullah Mostafa</span>
-        <span>© The Branch Manager is<br/>&nbsp;&nbsp;&nbsp;Mr. Milad</span>
+        <span>© Created and developed by<br/>&nbsp;&nbsp;&nbsp; Abdullah Mostafa</span>
+        <span>© The Branch Manager is<br/>&nbsp;&nbsp;&nbsp; Mr. Milad</span>
       </footer>
 
       {menuOpen && (
