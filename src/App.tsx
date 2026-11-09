@@ -90,7 +90,7 @@ export default function App() {
       </section>
       <footer>
         <span>© Created by Abdullah Mostafa</span>
-        <span>MADE FOR PIZZA LOVERS ♥</span>
+        <span>© Branch Manager : Mr_Milad</span>
       </footer>
 
       {menuOpen && (
