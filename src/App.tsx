@@ -89,18 +89,18 @@ export default function App() {
           <label className="love">MADE WITH LOVE ♥</label>
         </div>
       </section>
+      
       <footer>
-        <div className="created-footer">
-        <span>© Created and developed by</span>
-        <br/>
-        <span>Abdullah Mostafa</span>
-        </div>
-        <div className="manager-footer">
-        <span>© The Branch Manager is</span>
-        <br/>
-        <span>Mr. Milad</span>
-        </div>
-      </footer>
+  <div className="footer-col">
+    <span>© Created and developed by</span>
+    <span className="sub-text">Abdullah Mostafa</span>
+  </div>
+
+  <div className="footer-col">
+    <span>© The Branch Manager is</span>
+    <span className="sub-text">Mr. Milad</span>
+  </div>
+</footer>
 
       {menuOpen && (
         <div className="overlay" onClick={() => setMenuOpen(false)}>
