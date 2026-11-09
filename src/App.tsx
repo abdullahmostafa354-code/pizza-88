@@ -6,6 +6,7 @@ import {
   X,
   ChevronLeft,
   ChevronRight,
+  Space,
 } from "lucide-react";
 
 const logo = "pizza88-logo.png";
@@ -89,8 +90,8 @@ export default function App() {
         </div>
       </section>
       <footer>
-        <span>© Created and developed by<br/>   Abdullah Mostafa</span>
-        <span>© The Branch Manager is<br/>   Mr. Milad</span>
+        <span>© Created and developed by<br/><Space>Abdullah Mostafa</Space></span>
+        <span>© The Branch Manager is<br/>Mr. Milad</span>
       </footer>
 
       {menuOpen && (
