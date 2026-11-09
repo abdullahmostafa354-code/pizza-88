@@ -90,7 +90,7 @@ export default function App() {
       </section>
       <footer>
         <span>© Created by Abdullah Mostafa</span>
-        <span>© Branch Manager : Mr_Milad</span>
+        <span>© The Branch Manager is Milad</span>
       </footer>
 
       {menuOpen && (
