@@ -72,7 +72,7 @@ export default function App() {
                 <Star />
               </i>
               <span>
-                <strong>RATE OUR RESTAURANT</strong>
+                <strong>RATE YOUR EXPERIENCE</strong>
                 <small>Your feedback means a lot</small>
               </span>
               <ArrowUpRight />
@@ -91,7 +91,7 @@ export default function App() {
       </section>
       <footer>
         <span>© Created and developed by<br/>&nbsp;&nbsp;&nbsp; Abdullah Mostafa</span>
-        <span>© The Branch Manager is<br/>&nbsp;&nbsp;&nbsp; Mr. Milad</span>
+        <span>© The Branch Manager is<br/>&nbsp;&nbsp;&nbsp; Milad</span>
       </footer>
 
       {menuOpen && (
